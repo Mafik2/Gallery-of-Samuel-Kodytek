@@ -1,0 +1,41 @@
+h1 {
+    font-family: sans-serif;
+}
+
+body{
+    margin: 0;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topnav ul li {
+    list-style-type: none;
+    color: white;
+
+}
+.frame {
+    width: 20%;
+    height: 100%;
+    border: 3px solid #ccc;
+    background: #eee;
+    margin: 5%;
+    padding: 10px 10px 20px;
+    display: inline-block;
+}
+img {
+    width: 100%;
+
+}
+p{
+    font-family: sans-serif;
+    font-size: 18px;
+}
+i{
+    font-size: 200%;
+}
+.twitter{
+    color: #1DA1F2;
+}
